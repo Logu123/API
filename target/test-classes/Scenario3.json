@@ -1,0 +1,1012 @@
+{ "FirstPolicyEffectiveDate": "20220901",
+            "HeadquarterState": "WI",
+            "TotalEmpCount": "2500",
+            "NAICS_Code": "238150",
+            "PayMode": "52",
+	"MultiplicativeFactorstoADBCat": "false",
+	"ApplyBundlingDiscount": "No",
+	"CoverageType": "24 Hour",
+    "BenefitParamList": [
+        {
+            "BenefitID": "235",
+            "BenefitOptionID": "658",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "2000"
+        },
+        {
+            "BenefitID": "236",
+            "BenefitOptionID": "668",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "2000"
+        },
+        {
+            "BenefitID": "237",
+            "BenefitOptionID": "678",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "400"
+        },
+        {
+            "BenefitID": "238",
+            "BenefitOptionID": "691",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "300"
+        },
+        {
+            "BenefitID": "239",
+            "BenefitOptionID": "704",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "150"
+        },
+        {
+            "BenefitID": "240",
+            "BenefitOptionID": "711",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "200"
+        },
+        {
+            "BenefitID": "241",
+            "BenefitOptionID": "725",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "500"
+        },
+        {
+            "BenefitID": "242",
+            "BenefitOptionID": "734",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "10000"
+        },
+        {
+            "BenefitID": "243",
+            "BenefitOptionID": "747",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "100"
+        },
+        {
+            "BenefitID": "244",
+            "BenefitOptionID": "753",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "150"
+        },
+        {
+            "BenefitID": "245",
+            "BenefitOptionID": "761",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "150"
+        },
+        {
+            "BenefitID": "246",
+            "BenefitOptionID": "766",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "250"
+        },
+        {
+            "BenefitID": "247",
+            "BenefitOptionID": "773",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "1500"
+        },
+        {
+            "BenefitID": "248",
+            "BenefitOptionID": "786",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "500"
+        },
+        {
+            "BenefitID": "249",
+            "BenefitOptionID": "800",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "200"
+        },
+        {
+            "BenefitID": "250",
+            "BenefitOptionID": "813",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "250"
+        },
+        {
+            "BenefitID": "251",
+            "BenefitOptionID": "827",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "100"
+        },
+        {
+            "BenefitID": "252",
+            "BenefitOptionID": "842",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "75"
+        },
+        {
+            "BenefitID": "252",
+            "BenefitOptionID": "855",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "Y"
+        },
+        {
+            "BenefitID": "253",
+            "BenefitOptionID": "858",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "200"
+        },
+        {
+            "BenefitID": "254",
+            "BenefitOptionID": "869",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "100"
+        },
+        {
+            "BenefitID": "255",
+            "BenefitOptionID": "880",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "2000"
+        },
+        {
+            "BenefitID": "256",
+            "BenefitOptionID": "888",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "1000"
+        },
+        {
+            "BenefitID": "257",
+            "BenefitOptionID": "897",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "200"
+        },
+        {
+            "BenefitID": "258",
+            "BenefitOptionID": "909",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "500"
+        },
+        {
+            "BenefitID": "259",
+            "BenefitOptionID": "924",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "225"
+        },
+        {
+            "BenefitID": "259",
+            "BenefitOptionID": "926",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "1125"
+        },
+        {
+            "BenefitID": "259",
+            "BenefitOptionID": "928",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "2250"
+        },
+        {
+            "BenefitID": "259",
+            "BenefitOptionID": "930",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "15000"
+        },
+        {
+            "BenefitID": "260",
+            "BenefitOptionID": "931",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "25%"
+        },
+        {
+            "BenefitID": "261",
+            "BenefitOptionID": "934",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "200"
+        },
+        {
+            "BenefitID": "262",
+            "BenefitOptionID": "942",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "250"
+        },
+        {
+            "BenefitID": "263",
+            "BenefitOptionID": "945",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "75"
+        },
+        {
+            "BenefitID": "265",
+            "BenefitOptionID": "948",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "300"
+        },
+        {
+            "BenefitID": "266",
+            "BenefitOptionID": "955",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "1000"
+        },
+        {
+            "BenefitID": "266",
+            "BenefitOptionID": "962",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "Y"
+        },
+        {
+            "BenefitID": "267",
+            "BenefitOptionID": "972",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "75"
+        },
+        {
+            "BenefitID": "267",
+            "BenefitOptionID": "974",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "200"
+        },
+        {
+            "BenefitID": "267",
+            "BenefitOptionID": "976",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "400"
+        },
+        {
+            "BenefitID": "267",
+            "BenefitOptionID": "978",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "800"
+        },
+        {
+            "BenefitID": "268",
+            "BenefitOptionID": "980",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "1500"
+        },
+        {
+            "BenefitID": "269",
+            "BenefitOptionID": "985",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "750"
+        },
+        {
+            "BenefitID": "270",
+            "BenefitOptionID": "993",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "2000"
+        },
+        {
+            "BenefitID": "271",
+            "BenefitOptionID": "1001",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "750"
+        },
+        {
+            "BenefitID": "272",
+            "BenefitOptionID": "1009",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "750"
+        },
+        {
+            "BenefitID": "273",
+            "BenefitOptionID": "1023",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "2000"
+        },
+        {
+            "BenefitID": "273",
+            "BenefitOptionID": "1025",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "200"
+        },
+        {
+            "BenefitID": "274",
+            "BenefitOptionID": "1033",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "1000"
+        },
+        {
+            "BenefitID": "274",
+            "BenefitOptionID": "1035",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "200"
+        },
+        {
+            "BenefitID": "275",
+            "BenefitOptionID": "1042",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "1200"
+        },
+        {
+            "BenefitID": "275",
+            "BenefitOptionID": "1043",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "800"
+        },
+        {
+            "BenefitID": "275",
+            "BenefitOptionID": "1044",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "200"
+        },
+        {
+            "BenefitID": "276",
+            "BenefitOptionID": "1045",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "200"
+        },
+        {
+            "BenefitID": "277",
+            "BenefitOptionID": "1055",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "500"
+        },
+        {
+            "BenefitID": "278",
+            "BenefitOptionID": "1072",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "75000"
+        },
+        {
+            "BenefitID": "278",
+            "BenefitOptionID": "1075",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "30000"
+        },
+        {
+            "BenefitID": "278",
+            "BenefitOptionID": "1078",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "15000"
+        },
+        {
+            "BenefitID": "278",
+            "BenefitOptionID": "1081",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "150000"
+        },
+        {
+            "BenefitID": "278",
+            "BenefitOptionID": "1084",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "60000"
+        },
+        {
+            "BenefitID": "278",
+            "BenefitOptionID": "1087",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "30000"
+        },
+        {
+            "BenefitID": "279",
+            "BenefitOptionID": "1094",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "100000"
+        },
+        {
+            "BenefitID": "279",
+            "BenefitOptionID": "1095",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "50000"
+        },
+        {
+            "BenefitID": "279",
+            "BenefitOptionID": "1096",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "50000"
+        },
+        {
+            "BenefitID": "280",
+            "BenefitOptionID": "1097",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "25"
+        },
+        {
+            "BenefitID": "280",
+            "BenefitOptionID": "1806",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "25"
+        },
+        {
+            "BenefitID": "280",
+            "BenefitOptionID": "1811",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "25"
+        },
+        {
+            "BenefitID": "280",
+            "BenefitOptionID": "1546",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "Y"
+        },
+        {
+            "BenefitID": "280",
+            "BenefitOptionID": "1544",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "Y"
+        },
+        {
+            "BenefitID": "280",
+            "BenefitOptionID": "1548",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "Y"
+        },
+        {
+            "BenefitID": "280",
+            "BenefitOptionID": "1103",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "Y"
+        },
+        {
+            "BenefitID": "280",
+            "BenefitOptionID": "1101",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "Y"
+        },
+        {
+            "BenefitID": "281",
+            "BenefitOptionID": "1104",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "25"
+        },
+        {
+            "BenefitID": "281",
+            "BenefitOptionID": "1817",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "25"
+        },
+        {
+            "BenefitID": "281",
+            "BenefitOptionID": "1823",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "25"
+        },
+        {
+            "BenefitID": "281",
+            "BenefitOptionID": "1110",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "Y"
+        },
+        {
+            "BenefitID": "281",
+            "BenefitOptionID": "1550",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "Y"
+        },
+        {
+            "BenefitID": "285",
+            "BenefitOptionID": "1313",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "25%"
+        },
+        {
+            "BenefitID": "286",
+            "BenefitOptionID": "1134",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "5000"
+        },
+        {
+            "BenefitID": "286",
+            "BenefitOptionID": "1138",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "2000"
+        },
+        {
+            "BenefitID": "286",
+            "BenefitOptionID": "1142",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "3000"
+        },
+        {
+            "BenefitID": "286",
+            "BenefitOptionID": "1146",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "1600"
+        },
+        {
+            "BenefitID": "286",
+            "BenefitOptionID": "1150",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "1600"
+        },
+        {
+            "BenefitID": "286",
+            "BenefitOptionID": "1154",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "1600"
+        },
+        {
+            "BenefitID": "286",
+            "BenefitOptionID": "1158",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "700"
+        },
+        {
+            "BenefitID": "286",
+            "BenefitOptionID": "1162",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "700"
+        },
+        {
+            "BenefitID": "286",
+            "BenefitOptionID": "1166",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "700"
+        },
+        {
+            "BenefitID": "286",
+            "BenefitOptionID": "1170",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "600"
+        },
+        {
+            "BenefitID": "286",
+            "BenefitOptionID": "1174",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "600"
+        },
+        {
+            "BenefitID": "286",
+            "BenefitOptionID": "1178",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "600"
+        },
+        {
+            "BenefitID": "286",
+            "BenefitOptionID": "1182",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "600"
+        },
+        {
+            "BenefitID": "286",
+            "BenefitOptionID": "1186",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "600"
+        },
+        {
+            "BenefitID": "286",
+            "BenefitOptionID": "1190",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "600"
+        },
+        {
+            "BenefitID": "286",
+            "BenefitOptionID": "1194",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "600"
+        },
+        {
+            "BenefitID": "286",
+            "BenefitOptionID": "1198",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "600"
+        },
+        {
+            "BenefitID": "286",
+            "BenefitOptionID": "1202",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "500"
+        },
+        {
+            "BenefitID": "286",
+            "BenefitOptionID": "1206",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "400"
+        },
+        {
+            "BenefitID": "286",
+            "BenefitOptionID": "1210",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "100"
+        },
+        {
+            "BenefitID": "286",
+            "BenefitOptionID": "1211",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "25%"
+        },
+        {
+            "BenefitID": "286",
+            "BenefitOptionID": "1132",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "10000"
+        },
+        {
+            "BenefitID": "286",
+            "BenefitOptionID": "1136",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "4000"
+        },
+        {
+            "BenefitID": "286",
+            "BenefitOptionID": "1140",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "6000"
+        },
+        {
+            "BenefitID": "286",
+            "BenefitOptionID": "1144",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "3200"
+        },
+        {
+            "BenefitID": "286",
+            "BenefitOptionID": "1148",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "3200"
+        },
+        {
+            "BenefitID": "286",
+            "BenefitOptionID": "1152",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "3200"
+        },
+        {
+            "BenefitID": "286",
+            "BenefitOptionID": "1156",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "1400"
+        },
+        {
+            "BenefitID": "286",
+            "BenefitOptionID": "1160",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "1400"
+        },
+        {
+            "BenefitID": "286",
+            "BenefitOptionID": "1164",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "1400"
+        },
+        {
+            "BenefitID": "286",
+            "BenefitOptionID": "1168",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "1200"
+        },
+        {
+            "BenefitID": "286",
+            "BenefitOptionID": "1172",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "1200"
+        },
+        {
+            "BenefitID": "286",
+            "BenefitOptionID": "1176",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "1200"
+        },
+        {
+            "BenefitID": "286",
+            "BenefitOptionID": "1180",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "1200"
+        },
+        {
+            "BenefitID": "286",
+            "BenefitOptionID": "1184",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "1200"
+        },
+        {
+            "BenefitID": "286",
+            "BenefitOptionID": "1188",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "1200"
+        },
+        {
+            "BenefitID": "286",
+            "BenefitOptionID": "1192",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "1200"
+        },
+        {
+            "BenefitID": "286",
+            "BenefitOptionID": "1196",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "1200"
+        },
+        {
+            "BenefitID": "286",
+            "BenefitOptionID": "1200",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "1000"
+        },
+        {
+            "BenefitID": "286",
+            "BenefitOptionID": "1204",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "800"
+        },
+        {
+            "BenefitID": "286",
+            "BenefitOptionID": "1208",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "200"
+        },
+        {
+            "BenefitID": "287",
+            "BenefitOptionID": "1227",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "3000"
+        },
+        {
+            "BenefitID": "287",
+            "BenefitOptionID": "1233",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "1500"
+        },
+        {
+            "BenefitID": "287",
+            "BenefitOptionID": "1239",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "1200"
+        },
+        {
+            "BenefitID": "287",
+            "BenefitOptionID": "1245",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "750"
+        },
+        {
+            "BenefitID": "287",
+            "BenefitOptionID": "1251",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "450"
+        },
+        {
+            "BenefitID": "287",
+            "BenefitOptionID": "1257",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "450"
+        },
+        {
+            "BenefitID": "287",
+            "BenefitOptionID": "1263",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "450"
+        },
+        {
+            "BenefitID": "287",
+            "BenefitOptionID": "1269",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "450"
+        },
+        {
+            "BenefitID": "287",
+            "BenefitOptionID": "1275",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "450"
+        },
+        {
+            "BenefitID": "287",
+            "BenefitOptionID": "1281",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "150"
+        },
+        {
+            "BenefitID": "287",
+            "BenefitOptionID": "1287",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "150"
+        },
+        {
+            "BenefitID": "287",
+            "BenefitOptionID": "1288",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "25%"
+        },
+        {
+            "BenefitID": "287",
+            "BenefitOptionID": "1224",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "6000"
+        },
+        {
+            "BenefitID": "287",
+            "BenefitOptionID": "1230",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "3000"
+        },
+        {
+            "BenefitID": "287",
+            "BenefitOptionID": "1236",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "2400"
+        },
+        {
+            "BenefitID": "287",
+            "BenefitOptionID": "1242",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "1500"
+        },
+        {
+            "BenefitID": "287",
+            "BenefitOptionID": "1248",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "900"
+        },
+        {
+            "BenefitID": "287",
+            "BenefitOptionID": "1254",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "900"
+        },
+        {
+            "BenefitID": "287",
+            "BenefitOptionID": "1260",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "900"
+        },
+        {
+            "BenefitID": "287",
+            "BenefitOptionID": "1266",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "900"
+        },
+        {
+            "BenefitID": "287",
+            "BenefitOptionID": "1272",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "900"
+        },
+        {
+            "BenefitID": "287",
+            "BenefitOptionID": "1278",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "300"
+        },
+        {
+            "BenefitID": "287",
+            "BenefitOptionID": "1284",
+            "AttributeID": "",
+            "AttributeOptionID": "",
+            "RiderOptionValue": "300"
+        },
+        {
+            "BenefitID": "",
+            "BenefitOptionID": "",
+            "AttributeID": "7",
+            "AttributeOptionID": "87",
+            "RiderOptionValue": "Y"
+        },
+        {
+            "BenefitID": "",
+            "BenefitOptionID": "",
+            "AttributeID": "58",
+            "AttributeOptionID": "324",
+            "RiderOptionValue": "Y"
+        }
+]
+}

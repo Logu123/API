@@ -1,0 +1,339 @@
+at Scenario : 6
+Mismatch Occurred: Expected- 12.5 Got 12.54 from API
+
+For the Plan: ECModalPremium
+at Scenario : 6
+Mismatch Occurred: Expected- 25.0 Got 25.08 from API
+
+For the Plan: ECMonthlyPremium
+at Scenario : 6
+Mismatch Occurred: Expected- 6.39 Got 6.4 from API
+
+For the Plan: EEModalPremium
+at Scenario : 6
+Mismatch Occurred: Expected- 12.77 Got 12.8 from API
+
+For the Plan: EEMonthlyPremium
+at Scenario : 6
+Mismatch Occurred: Expected- 10.09 Got 10.1 from API
+
+For the Plan: ESModalPremium
+at Scenario : 6
+Mismatch Occurred: Expected- 20.18 Got 20.19 from API
+
+For the Plan: ESMonthlyPremium
+at Scenario : 6
+Mismatch Occurred: Expected- 17.3 Got 17.34 from API
+
+For the Plan: FFmodalPremium
+at Scenario : 6
+Mismatch Occurred: Expected- 34.6 Got 34.67 from API
+
+For the Plan: FFMonthlyPremium
+at Scenario : 7
+Mismatch Occurred: Expected- 5.47 Got 5.29 from API
+
+For the Plan: ECModalPremium
+at Scenario : 7
+Mismatch Occurred: Expected- 23.72 Got 22.93 from API
+
+For the Plan: ECMonthlyPremium
+at Scenario : 7
+Mismatch Occurred: Expected- 3.93 Got 3.76 from API
+
+For the Plan: EEModalPremium
+at Scenario : 7
+Mismatch Occurred: Expected- 17.04 Got 16.31 from API
+
+For the Plan: EEMonthlyPremium
+at Scenario : 7
+Mismatch Occurred: Expected- 4.67 Got 4.5 from API
+
+For the Plan: ESModalPremium
+at Scenario : 7
+Mismatch Occurred: Expected- 20.24 Got 19.5 from API
+
+For the Plan: ESMonthlyPremium
+at Scenario : 7
+Mismatch Occurred: Expected- 6.35 Got 6.18 from API
+
+For the Plan: FFmodalPremium
+at Scenario : 7
+Mismatch Occurred: Expected- 27.51 Got 26.77 from API
+
+For the Plan: FFMonthlyPremium
+at Scenario : 10
+Mismatch Occurred: Expected- 5.04 Got 5.0 from API
+
+For the Plan: ECModalPremium
+at Scenario : 10
+Mismatch Occurred: Expected- 21.82 Got 21.65 from API
+
+For the Plan: ECMonthlyPremium
+at Scenario : 10
+Mismatch Occurred: Expected- 2.71 Got 2.68 from API
+
+For the Plan: EEModalPremium
+at Scenario : 10
+Mismatch Occurred: Expected- 11.74 Got 11.63 from API
+
+For the Plan: EEMonthlyPremium
+at Scenario : 10
+Mismatch Occurred: Expected- 4.38 Got 4.33 from API
+
+For the Plan: ESModalPremium
+at Scenario : 10
+Mismatch Occurred: Expected- 18.99 Got 18.78 from API
+
+For the Plan: ESMonthlyPremium
+at Scenario : 10
+Mismatch Occurred: Expected- 7.09 Got 7.03 from API
+
+For the Plan: FFmodalPremium
+at Scenario : 10
+Mismatch Occurred: Expected- 30.74 Got 30.45 from API
+
+For the Plan: FFMonthlyPremium
+at Scenario : 12
+Mismatch Occurred: Expected- 9.57 Got 8.11 from API
+
+For the Plan: ECModalPremium
+at Scenario : 12
+Mismatch Occurred: Expected- 19.13 Got 16.22 from API
+
+For the Plan: ECMonthlyPremium
+at Scenario : 12
+Mismatch Occurred: Expected- 4.9 Got 4.23 from API
+
+For the Plan: EEModalPremium
+at Scenario : 12
+Mismatch Occurred: Expected- 9.79 Got 8.46 from API
+
+For the Plan: EEMonthlyPremium
+at Scenario : 12
+Mismatch Occurred: Expected- 7.88 Got 6.68 from API
+
+For the Plan: ESModalPremium
+at Scenario : 12
+Mismatch Occurred: Expected- 15.76 Got 13.35 from API
+
+For the Plan: ESMonthlyPremium
+at Scenario : 12
+Mismatch Occurred: Expected- 13.86 Got 11.16 from API
+
+For the Plan: FFmodalPremium
+at Scenario : 12
+Mismatch Occurred: Expected- 27.71 Got 22.32 from API
+
+For the Plan: FFMonthlyPremium
+at Scenario : 13
+Mismatch Occurred: Expected- 4.28 Got 3.56 from API
+
+For the Plan: ECModalPremium
+at Scenario : 13
+Mismatch Occurred: Expected- 18.53 Got 15.44 from API
+
+For the Plan: ECMonthlyPremium
+at Scenario : 13
+Mismatch Occurred: Expected- 2.46 Got 2.05 from API
+
+For the Plan: EEModalPremium
+at Scenario : 13
+Mismatch Occurred: Expected- 10.68 Got 8.9 from API
+
+For the Plan: EEMonthlyPremium
+at Scenario : 13
+Mismatch Occurred: Expected- 3.36 Got 2.8 from API
+
+For the Plan: ESModalPremium
+at Scenario : 13
+Mismatch Occurred: Expected- 14.55 Got 12.12 from API
+
+For the Plan: ESMonthlyPremium
+at Scenario : 13
+Mismatch Occurred: Expected- 5.39 Got 4.49 from API
+
+For the Plan: FFmodalPremium
+at Scenario : 13
+Mismatch Occurred: Expected- 23.34 Got 19.45 from API
+
+For the Plan: FFMonthlyPremium
+at Scenario : 14
+Mismatch Occurred: Expected- 9.63 Got 8.5 from API
+
+For the Plan: ECModalPremium
+at Scenario : 14
+Mismatch Occurred: Expected- 20.87 Got 18.41 from API
+
+For the Plan: ECMonthlyPremium
+at Scenario : 14
+Mismatch Occurred: Expected- 5.01 Got 4.43 from API
+
+For the Plan: EEModalPremium
+at Scenario : 14
+Mismatch Occurred: Expected- 10.86 Got 9.59 from API
+
+For the Plan: EEMonthlyPremium
+at Scenario : 14
+Mismatch Occurred: Expected- 7.85 Got 6.92 from API
+
+For the Plan: ESModalPremium
+at Scenario : 14
+Mismatch Occurred: Expected- 17.0 Got 15.0 from API
+
+For the Plan: ESMonthlyPremium
+at Scenario : 14
+Mismatch Occurred: Expected- 13.2 Got 11.64 from API
+
+For the Plan: FFmodalPremium
+at Scenario : 14
+Mismatch Occurred: Expected- 28.59 Got 25.22 from API
+
+For the Plan: FFMonthlyPremium
+at Scenario : 16
+Mismatch Occurred: Expected- 4.09 Got 3.23 from API
+
+For the Plan: ECModalPremium
+at Scenario : 16
+Mismatch Occurred: Expected- 17.72 Got 13.99 from API
+
+For the Plan: ECMonthlyPremium
+at Scenario : 16
+Mismatch Occurred: Expected- 2.11 Got 1.66 from API
+
+For the Plan: EEModalPremium
+at Scenario : 16
+Mismatch Occurred: Expected- 9.13 Got 7.21 from API
+
+For the Plan: EEMonthlyPremium
+at Scenario : 16
+Mismatch Occurred: Expected- 3.13 Got 2.47 from API
+
+For the Plan: ESModalPremium
+at Scenario : 16
+Mismatch Occurred: Expected- 13.58 Got 10.72 from API
+
+For the Plan: ESMonthlyPremium
+at Scenario : 16
+Mismatch Occurred: Expected- 5.47 Got 4.32 from API
+
+For the Plan: FFmodalPremium
+at Scenario : 16
+Mismatch Occurred: Expected- 23.69 Got 18.7 from API
+
+For the Plan: FFMonthlyPremium
+at Scenario : 17
+Mismatch Occurred: Expected- 7.16 Got 6.72 from API
+
+For the Plan: ECModalPremium
+at Scenario : 17
+Mismatch Occurred: Expected- 15.52 Got 14.55 from API
+
+For the Plan: ECMonthlyPremium
+at Scenario : 17
+Mismatch Occurred: Expected- 3.69 Got 3.46 from API
+
+For the Plan: EEModalPremium
+at Scenario : 17
+Mismatch Occurred: Expected- 7.99 Got 7.49 from API
+
+For the Plan: EEMonthlyPremium
+at Scenario : 17
+Mismatch Occurred: Expected- 5.49 Got 5.15 from API
+
+For the Plan: ESModalPremium
+at Scenario : 17
+Mismatch Occurred: Expected- 11.89 Got 11.15 from API
+
+For the Plan: ESMonthlyPremium
+at Scenario : 17
+Mismatch Occurred: Expected- 9.58 Got 8.98 from API
+
+For the Plan: FFmodalPremium
+at Scenario : 17
+Mismatch Occurred: Expected- 20.75 Got 19.45 from API
+
+For the Plan: FFMonthlyPremium
+at Scenario : 18
+Mismatch Occurred: Expected- 12.95 Got 12.77 from API
+
+For the Plan: ECModalPremium
+at Scenario : 18
+Mismatch Occurred: Expected- 26.28 Got 25.54 from API
+
+For the Plan: ECMonthlyPremium
+at Scenario : 18
+Mismatch Occurred: Expected- 6.01 Got 6.15 from API
+
+For the Plan: EEModalPremium
+at Scenario : 18
+Mismatch Occurred: Expected- 9.95 Got 9.81 from API
+
+For the Plan: ESModalPremium
+at Scenario : 18
+Mismatch Occurred: Expected- 20.2 Got 19.61 from API
+
+For the Plan: ESMonthlyPremium
+at Scenario : 18
+Mismatch Occurred: Expected- 19.92 Got 17.65 from API
+
+For the Plan: FFmodalPremium
+at Scenario : 18
+Mismatch Occurred: Expected- 40.41 Got 35.29 from API
+
+For the Plan: FFMonthlyPremium
+at Scenario : 19
+Mismatch Occurred: Expected- 5.18 Got 4.17 from API
+
+For the Plan: ECModalPremium
+at Scenario : 19
+Mismatch Occurred: Expected- 22.45 Got 18.07 from API
+
+For the Plan: ECMonthlyPremium
+at Scenario : 19
+Mismatch Occurred: Expected- 2.55 Got 2.05 from API
+
+For the Plan: EEModalPremium
+at Scenario : 19
+Mismatch Occurred: Expected- 11.07 Got 8.88 from API
+
+For the Plan: EEMonthlyPremium
+at Scenario : 19
+Mismatch Occurred: Expected- 3.93 Got 3.18 from API
+
+For the Plan: ESModalPremium
+at Scenario : 19
+Mismatch Occurred: Expected- 17.05 Got 13.79 from API
+
+For the Plan: ESMonthlyPremium
+at Scenario : 19
+Mismatch Occurred: Expected- 7.03 Got 5.68 from API
+
+For the Plan: FFmodalPremium
+at Scenario : 19
+Mismatch Occurred: Expected- 30.48 Got 24.61 from API
+
+For the Plan: FFMonthlyPremium
+
+------------------------Summary of Scenario Execution------------------------
+
+Total Scenario Executed = 19
+Passed Scenarios = 9
+Failed Scenarios = 10
+
+------------------------Please Ignore anything below this Line------------------------
+PASSED: groupACCI.GrpAcciAPITest.postRequest
+PASSED: groupACCI.GrpAcciAPITest.compareRates
+PASSED: groupACCI.GrpAcciAPITest.reports
+
+===============================================
+    Default test
+    Tests run: 3, Failures: 0, Skips: 0
+===============================================
+
+
+===============================================
+Suite
+Total tests run: 3, Passes: 3, Failures: 0, Skips: 0
+===============================================
+

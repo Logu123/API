@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-08T16:50:19 IST" name="groupACCI.GrpAcciAPITest" finished-at="2022-09-08T16:56:55 IST" duration-ms="396739">
+    <groups>
+    </groups>
+    <test started-at="2022-09-08T16:50:19 IST" name="Command line test" finished-at="2022-09-08T16:56:55 IST" duration-ms="396739">
+      <class name="groupACCI.GrpAcciAPITest">
+        <test-method is-config="true" signature="getValues()[pri:0, instance:groupACCI.GrpAcciAPITest@77c2494c]" started-at="2022-09-08T16:50:19 IST" name="getValues" finished-at="2022-09-08T16:50:19 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getValues -->
+        <test-method is-config="true" signature="preRequisite()[pri:0, instance:groupACCI.GrpAcciAPITest@77c2494c]" started-at="2022-09-08T16:50:19 IST" name="preRequisite" finished-at="2022-09-08T16:50:22 IST" duration-ms="2934" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preRequisite -->
+        <test-method signature="postRequest()[pri:1, instance:groupACCI.GrpAcciAPITest@77c2494c]" started-at="2022-09-08T16:50:22 IST" name="postRequest" finished-at="2022-09-08T16:56:54 IST" duration-ms="391972" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postRequest -->
+        <test-method signature="compareRates()[pri:2, instance:groupACCI.GrpAcciAPITest@77c2494c]" started-at="2022-09-08T16:56:54 IST" name="compareRates" finished-at="2022-09-08T16:56:54 IST" duration-ms="555" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- compareRates -->
+        <test-method signature="reports()[pri:3, instance:groupACCI.GrpAcciAPITest@77c2494c]" started-at="2022-09-08T16:56:54 IST" name="reports" finished-at="2022-09-08T16:56:55 IST" duration-ms="1192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reports -->
+      </class> <!-- groupACCI.GrpAcciAPITest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- groupACCI.GrpAcciAPITest -->
+</testng-results>
